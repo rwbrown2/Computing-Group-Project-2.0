@@ -1,3 +1,5 @@
 Progress Report 4/17/20
 RodAnthony:
 The group met on a conference call using zoom. We planned out exactly what everyone has to do. We will be working on our stuff seperately but are going to stay in touch. Once everyone has completed their individually assigned tasks we will meet up again. This time will be in person so that we can ensure that the Rasbian image is able to transfer from a Raspberry Pi to a different computer using an ethernet cable. I myself have created the repository and created the text document so that we may comment on our progress report. 
+Makayla Blassingame:
+I created a zoom meeting so we could all communicate and be on the same page. I have researched and taken notes to contribute to the project by presenting an instruction manual.
